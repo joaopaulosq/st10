@@ -1,4 +1,5 @@
 # Site acessível sobre Tropicália
+Feito por João
 # Sobre
 Refatoração de um site implementando recursos de acessibilidade no html, css e JS.
 ## Recursos de acessibilidade
